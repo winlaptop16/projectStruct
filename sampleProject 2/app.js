@@ -19,6 +19,7 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname +'/client')));
 
 app.use('/', routes);
+//app.use(bodyParser.json());app.use(bodyParser.json());app.use(bodyParser.json());app.use(bodyParser.json());app.use(bodyParser.json());app.use(bodyParser.json());app.use(bodyParser.json());app.use(bodyParser.json());app.use(bodyParser.json());app.use(bodyParser.json());app.use(bodyParser.json());app.use(bodyParser.json());app.use(bodyParser.json());app.use(bodyParser.json());app.use(bodyParser.json());app.use(bodyParser.json());app.use(bodyParser.json());
 
 //this is comment //this is comment //this is comment //this is comment //this is comment //this is comment //this is comment //this is comment //this is comment //this is comment //this is comment //this is comment //this is comment //this is comment //this is comment //this is comment //this is comment //this is comment //this is comment //this is comment 
 
